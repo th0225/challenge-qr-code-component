@@ -34,6 +34,7 @@
 	},
 	"dependencies": {
 		"@fontsource/outfit": "^5.2.8",
+		"@sveltejs/adapter-static": "^3.0.10",
 		"@tailwindcss/vite": "^4.1.17",
 		"tailwindcss": "^4.1.17"
 	}
