@@ -1,7 +1,7 @@
 <div class="flex items-center justify-center h-screen">
   <div class="w-[320px] h-[499px] rounded-[20px] bg-white">
     <div class="px-[16px] pt-[16px] pb-[40px]">
-      <img src="/images/image-qr-code.png" class="rounded-[10px]" alt="qrcode">
+      <img src="images/image-qr-code.png" class="rounded-[10px]" alt="qrcode">
       <div class="mt-[24px]">
         <p class="font-sans font-bold text-center mb-[16px] text-[22px] leading-[1.2] tracking-[0px]
           text-slate-900" style="font-family: Outfit, sans-serif;">
